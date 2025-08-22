@@ -1,0 +1,23 @@
+# Create backend folder and initialize Laravel
+mkdir backend && cd backend
+composer create-project laravel/laravel .
+
+# Install Sanctum
+composer require laravel/sanctum
+
+# Publish Sanctum config
+php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+
+# Run migrations
+php artisan migrate
+
+# Enable Sanctum in app/Http/Kernel.php
+# Add \Laravel\Sanctum\Http\Middleware\EnsureFrontendRequestsAreStateful::class to 'api' middleware group
+
+# Configure API routes in routes/api.php
+# Example:
+# Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+#     return $request->user();
+# });
+
+# Set up CORS in config/cors.php to allow frontend access

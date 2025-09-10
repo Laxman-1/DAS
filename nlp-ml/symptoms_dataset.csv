@@ -1,0 +1,616 @@
+disease,symptoms,specialist
+Hypertension,"high blood pressure, headaches, dizziness mild symptoms",General physician
+Diabetes,"increased thirst, frequent urination, fatigue mild symptoms",General physician
+Respiratory infection,"cough, fever, sore throat worsening over 3 days",General physician
+Sinusitis,"facial pain, nasal congestion, headache for a few weeks",General physician
+Back pain,"lower back ache, stiffness acute episode",General physician
+Abdominal pain,"stomach cramps, nausea acute episode",General physician
+Headache,"throbbing pain, sensitivity to light worsening over 3 days",General physician
+Fever,"high temperature, chills for 2 days",General physician
+Chronic fatigue,"persistent tiredness, weakness sudden onset",General physician
+Digestive issues,"indigestion, bloating acute episode",General physician
+Common cold,"runny nose, sneezing, cough sudden onset",General physician
+Flu,"fever, body aches, fatigue recurrent symptoms",General physician
+Bronchitis,"cough with mucus, chest discomfort chronic condition",General physician
+Allergies,"sneezing, itchy eyes acute episode",General physician
+Arthritis,"joint pain, swelling sudden onset",General physician
+Appendicitis,"severe right lower abdominal pain, nausea, fever acute episode",General Surgeon
+Gallstones,"burning upper abdominal pain, nausea worsening over 3 days",Gastroenterologist
+Hernia,"bulge in groin, pain when lifting for a few weeks",General Surgeon
+Cholecystitis,"severe right upper quadrant pain, fever for 2 days",Gastroenterologist
+Bowel obstruction,"severe abdominal pain, vomiting, constipation acute episode",General Surgeon
+Diverticulitis,"lower left abdominal pain, fever worsening over 3 days",Gastroenterologist
+Hemorrhoids,"rectal bleeding, pain during bowel movements for a few weeks",General Surgeon
+Anal fissure,"sharp pain during bowel movements, bleeding for 2 days",General Surgeon
+Pilonidal cyst,"painful swelling near tailbone, fever acute episode",General Surgeon
+Abscess,"localized swelling, redness, pain worsening over 3 days",General Surgeon
+Gastroenteritis,"vomiting, watery diarrhea, signs of dehydration for a few weeks",Pediatrics
+Febrile illness,"fever, cough in an infant, feeding difficulty acute episode",Pediatrics
+Bronchiolitis,"high fever, rash, lethargy worsening over 3 days",Pediatrics
+Croup,"barking cough, stridor, fever in a toddler for 2 days",Pediatrics
+Ear infection,"ear tugging, fever, irritability in a toddler for a few weeks",Pediatrics
+Tonsillitis,"sore throat, difficulty swallowing, fever in a child acute episode",Pediatrics
+Measles,"high fever, rash, cough in a child for 2 days",Pediatrics
+Chickenpox,"itchy rash, fever, fatigue in a child worsening over 3 days",Pediatrics
+Hand-foot-mouth disease,"sores in mouth, rash on hands and feet in a toddler acute episode",Pediatrics
+Respiratory syncytial virus,"wheezing, cough, fever in an infant for a few weeks",Pediatrics
+Anxiety disorder,"excessive worrying, restlessness, difficulty concentrating for a few weeks",Psychiatry
+Major depressive disorder,"persistent low mood, loss of interest, poor sleep for months",Psychiatry
+Bipolar disorder,"mood swings, irritability, high energy episodes worsening over 3 days",Psychiatry
+Schizophrenia,"hearing voices, social withdrawal, suspiciousness for months",Psychiatry
+Obsessive-compulsive disorder,"repetitive thoughts, compulsive behaviors for a few weeks",Psychiatry
+Post-traumatic stress disorder,"flashbacks, nightmares, anxiety after trauma acute episode",Psychiatry
+Panic disorder,"sudden panic attacks, palpitations, sweating for 2 days",Psychiatry
+Generalized anxiety disorder,"chronic worry, fatigue, muscle tension for months",Psychiatry
+Insomnia,"difficulty falling asleep, non-restorative sleep for a few weeks",Psychiatry
+Social anxiety disorder,"fear of social situations, avoidance behaviors for months",Psychiatry
+Dental caries,"throbbing tooth pain, swelling, fever acute episode",Dentistry
+Periodontitis,"bleeding gums, bad breath, loose teeth for a few weeks",Dentistry
+Tooth abscess,"severe localized toothache, swelling worsening over 3 days",Dentistry
+Gingivitis,"gum inflammation, bleeding during brushing for 2 days",Dentistry
+Impacted tooth,"painful jaw, swelling, difficulty opening mouth acute episode",Dentistry
+Root canal infection,"severe tooth pain to hot and cold, prolonged sensitivity for a few weeks",Endodontics
+Pulpitis,"deep toothache, periapical radiolucency on imaging worsening over 3 days",Endodontics
+Dental trauma,"cracked tooth, severe pain after injury acute episode",Dentistry
+Oral thrush,"white patches in mouth, discomfort in a child for 2 days",Dentistry
+Temporomandibular joint disorder,"jaw pain, clicking, difficulty chewing for a few weeks",Dentistry
+Angina,"pressure-like chest discomfort on exertion, relieved by rest for a few weeks",Cardiology
+Myocardial infarction,"sudden chest pain radiating to left arm, sweating, nausea acute episode",Cardiology
+Heart failure,"shortness of breath, swollen ankles, fatigue for months",Cardiology
+Arrhythmia,"palpitations, lightheadedness, fainting spells for a few weeks",Cardiology
+Valvular disease,"shortness of breath on exertion, fatigue worsening over 3 days",Cardiology
+Pericarditis,"sharp chest pain worse on inspiration, leaning forward for 2 days",Cardiology
+Hypertension,"palpitations, lightheadedness, occasional fainting spells for a few weeks",Cardiology
+Coronary artery disease,"chest discomfort, shortness of breath, fatigue for months",Cardiology
+Atrial fibrillation,"irregular heartbeat, dizziness, fatigue acute episode",Cardiology
+Cardiomyopathy,"fatigue, swelling in legs, shortness of breath for a few weeks",Cardiology
+Eczema,"painful spreading red area on leg, fever worsening over 3 days",Dermatology
+Psoriasis,"silvery scaly plaques on elbows and knees, itching for a few weeks",Dermatology
+Acne,"chronic acne with scarring, inflammation for months",Dermatology
+Urticaria,"red itchy rash on forearms, small blisters for 2 days",Dermatology
+Contact dermatitis,"itchy rash after chemical exposure, redness acute episode",Dermatology
+Rosacea,"facial redness, flushing, pustules for a few weeks",Dermatology
+Seborrheic dermatitis,"scaly patches on scalp, itching for months",Dermatology
+Vitiligo,"loss of skin pigment, white patches worsening over 3 days",Dermatology
+Hives,"itchy welts after shellfish exposure, very itchy for 2 days",Dermatology
+Fungal infection,"itchy rash in groin, scaling for a few weeks",Dermatology
+Polycystic ovary syndrome,"irregular periods, weight gain, acne for months",Obstetrics/Gynecology
+Endometriosis,"severe pelvic pain, heavy periods worsening over 3 days",Obstetrics/Gynecology
+Premenstrual syndrome,"missed period, lower abdominal pain, vaginal spotting for a few weeks",Obstetrics/Gynecology
+Uterine fibroids,"heavy menstrual bleeding, pelvic pressure for months",Obstetrics/Gynecology
+Menopause,"hot flashes, night sweats, mood changes for a few weeks",Obstetrics/Gynecology
+Pelvic inflammatory disease,"lower abdominal pain, abnormal discharge acute episode",Obstetrics/Gynecology
+Cervical dysplasia,"abnormal Pap smear, mild pelvic discomfort for 2 days",Obstetrics/Gynecology
+Ovarian cyst,"pelvic pain, bloating, irregular periods for a few weeks",Obstetrics/Gynecology
+Vaginitis,"vaginal itching, discharge, discomfort worsening over 3 days",Obstetrics/Gynecology
+Pregnancy-related issues,"morning sickness, fatigue, mild cramping for a few weeks",Obstetrics/Gynecology
+Migraine,"throbbing headache, nausea, sensitivity to light for a few weeks",Neurology
+Multiple sclerosis,"tingling, numbness in feet, burning pain worsening over 3 days",Neurology
+Stroke,"sudden weakness on one side, slurred speech acute episode",Neurology
+Epilepsy,"recurrent seizures, loss of consciousness for months",Neurology
+Parkinson’s disease,"tremors, stiffness, slow movement for a few weeks",Neurology
+Neuropathy,"numbness, tingling in extremities, burning pain for months",Neurology
+Alzheimer’s disease,"memory loss, confusion, difficulty with tasks for a few weeks",Neurology
+Myasthenia gravis,"muscle weakness, drooping eyelids worsening over 3 days",Neurology
+Bell’s palsy,"sudden facial weakness, drooping on one side acute episode",Neurology
+Cluster headache,"severe unilateral headache, eye tearing for 2 days",Neurology
+Osteoarthritis,"joint pain, stiffness in knees worsening over 3 days",Orthopedics
+Meniscal tear,"twisting injury, knee pain, inability to bear weight for a few weeks",Orthopedics
+Fracture,"acute localized bone pain, swelling, deformity after fall acute episode",Orthopedics
+Sprain,"ankle swelling, pain after injury for 2 days",Orthopedics
+Degenerative disc disease,"chronic back pain, stiffness for months",Orthopedics
+Tendinopathy,"gradual onset Achilles tendon pain, activity for a few weeks",Orthopedics
+Bursitis,"shoulder pain, swelling, limited movement for 2 days",Orthopedics
+Scoliosis,"back pain, uneven shoulders worsening over 3 days",Orthopedics
+Carpal tunnel syndrome,"wrist pain, numbness in fingers for a few weeks",Orthopedics
+Rotator cuff injury,"shoulder pain, weakness with lifting for months",Orthopedics
+Hearing loss,"sudden hearing loss, tinnitus for 2 days",ENT Specialist
+Otitis media,"ear pain, fever, hearing difficulty acute episode",ENT Specialist
+Sinusitis,"facial pain, nasal congestion, green discharge for a few weeks",ENT Specialist
+Tonsillitis,"sore throat, difficulty swallowing, swollen glands for 2 days",ENT Specialist
+Laryngitis,"hoarseness, loss of voice, throat pain for a few weeks",ENT Specialist
+Nasal polyps,"nasal obstruction, loss of smell for months",ENT Specialist
+Epistaxis,"recurrent nosebleeds, nasal dryness acute episode",ENT Specialist
+Meniere’s disease,"vertigo, tinnitus, hearing loss for a few weeks",ENT Specialist
+Pharyngitis,"sore throat, fever, swollen lymph nodes for 2 days",ENT Specialist
+Sleep apnea,"loud snoring, daytime sleepiness, witnessed apneas for months",ENT Specialist
+Hypothyroidism,"fatigue, cold intolerance, weight gain for months",Endocrinologist
+Hyperthyroidism,"palpitations, heat intolerance, weight loss for a few weeks",Endocrinologist
+Addison’s disease,"fatigue, dizziness, low blood pressure, skin hyperpigmentation for months",Endocrinologist
+Cushing’s syndrome,"rapid weight gain, round face, high blood sugar for a few weeks",Endocrinologist
+Diabetes mellitus,"increased thirst, frequent urination, fatigue for months",Endocrinologist
+Hyperparathyroidism,"bone pain, fatigue, kidney stones for a few weeks",Endocrinologist
+Hypoglycemia,"shakiness, sweating, confusion acute episode",Endocrinologist
+Thyroid nodule,"palpable neck mass, difficulty swallowing for 2 days",Endocrinologist
+Adrenal insufficiency,"fatigue, low blood pressure, weight loss for months",Endocrinologist
+Pituitary disorder,"headaches, vision changes, hormonal imbalance for a few weeks",Endocrinologist
+Gallstones,"burning upper abdominal pain, nausea for a few weeks",Gastroenterologist
+Gastritis,"epigastric pain, nausea, bloating acute episode",Gastroenterologist
+Ulcerative colitis,"diarrhea with blood, abdominal pain for months",Gastroenterologist
+Crohn’s disease,"chronic diarrhea, weight loss, abdominal pain for a few weeks",Gastroenterologist
+Irritable bowel syndrome,"abdominal cramping, bloating, diarrhea for months",Gastroenterologist
+Hepatitis,"jaundice, fatigue, abdominal discomfort for a few weeks",Gastroenterologist
+Pancreatitis,"severe upper abdominal pain, nausea, vomiting acute episode",Gastroenterologist
+Celiac disease,"diarrhea, bloating, fatigue after gluten intake for months",Gastroenterologist
+Gastroesophageal reflux disease,"heartburn, regurgitation, chest pain for a few weeks",Gastroenterologist
+Diverticulosis,"lower abdominal pain, bloating for 2 days",Gastroenterologist
+Pulmonary embolism,"sudden pleuritic chest pain, shortness of breath for a few weeks",Pulmonologist
+Chronic obstructive pulmonary disease,"chronic cough, shortness of breath, wheezing for months",Pulmonologist
+Asthma,"wheezing, cough, shortness of breath after allergen exposure for 2 days",Pulmonologist
+Bronchitis,"cough with mucus, chest discomfort for a few weeks",Pulmonologist
+Pneumonia,"fever, cough, shortness of breath acute episode",Pulmonologist
+Lung cancer,"persistent cough, weight loss, night sweats for months",Pulmonologist
+Tuberculosis,"prolonged cough, night sweats, weight loss for months",Pulmonologist
+Interstitial lung disease,"progressive shortness of breath, dry cough for a few weeks",Pulmonologist
+Pleural effusion,"chest pain, shortness of breath, fever for 2 days",Pulmonologist
+Sarcoidosis,"shortness of breath, fatigue, skin lesions for months",Pulmonologist
+Prostatitis,"burning on urination, lower abdominal pain for 2 days",Urologist
+Urinary tract infection,"frequent urination, burning, urgency acute episode",Urologist
+Kidney stones,"severe flank pain, nausea, blood in urine for a few weeks",Urologist
+Benign prostatic hyperplasia,"difficulty urinating, weak stream for months",Urologist
+Bladder cancer,"blood in urine, pelvic pain for a few weeks",Urologist
+Urethritis,"burning on urination, discharge for 2 days",Urologist
+Overactive bladder,"frequent urgent urination, incontinence for months",Urologist
+Pyelonephritis,"fever, flank pain, chills acute episode",Urologist
+Testicular torsion,"sudden severe testicular pain, swelling for 2 days",Urologist
+Erectile dysfunction,"persistent difficulty achieving erection for months",Urologist
+Acute kidney injury,"sudden rise in creatinine, reduced urine output for 2 days",Nephrologist
+Chronic kidney disease,"fatigue, swelling, proteinuria for months",Nephrologist
+Nephrotic syndrome,"swelling of legs, face, reduced urine output for a few weeks",Nephrologist
+Glomerulonephritis,"blood in urine, swelling, high blood pressure for months",Nephrologist
+Polycystic kidney disease,"flank pain, blood in urine, hypertension for a few weeks",Nephrologist
+Renal artery stenosis,"high blood pressure, reduced kidney function for months",Nephrologist
+Electrolyte imbalance,"muscle cramps, fatigue, confusion acute episode",Nephrologist
+Kidney infection,"fever, flank pain, frequent urination for 2 days",Nephrologist
+Uremia,"fatigue, nausea, itching for months",Nephrologist
+Renal failure,"swelling, shortness of breath, fatigue for a few weeks",Nephrologist
+Leukemia,"easy bruising, petechiae, low platelets for a few weeks",Hematologist
+Lymphoma,"night sweats, swollen lymph nodes, weight loss for months",Hematologist
+Anemia,"fatigue, pallor, low hemoglobin for a few weeks",Hematologist
+Hemophilia,"excessive bleeding, easy bruising for months",Hematologist
+Sickle cell disease,"recurrent pain episodes, fatigue for a few weeks",Hematologist
+Thalassemia,"pallor, fatigue, growth delay for months",Hematologist
+Polycythemia vera,"fatigue, itching, headaches for a few weeks",Hematologist
+Myelodysplastic syndrome,"fatigue, frequent infections, easy bruising for months",Hematologist
+Multiple myeloma,"bone pain, fatigue, recurrent infections for a few weeks",Hematologist
+Coagulation disorder,"excessive bleeding after injury, bruising for 2 days",Hematologist
+Rheumatoid arthritis,"morning joint stiffness, swollen hands for a few weeks",Rheumatologist
+Lupus,"joint pain, rash, fatigue for months",Rheumatologist
+Osteoarthritis,"chronic joint pain, stiffness in knees for a few weeks",Rheumatologist
+Gout,"sudden severe pain in big toe, redness, swelling for 2 days",Rheumatologist
+Fibromyalgia,"chronic widespread pain, fatigue for months",Rheumatologist
+Scleroderma,"skin thickening, joint pain for a few weeks",Rheumatologist
+Ankylosing spondylitis,"chronic back stiffness, pain improving with exercise for months",Rheumatologist
+Psoriatic arthritis,"joint pain, skin plaques, swelling for a few weeks",Rheumatologist
+Sjogren’s syndrome,"dry eyes, dry mouth, joint pain for months",Rheumatologist
+Vasculitis,"fatigue, rash, joint pain for a few weeks",Rheumatologist
+Allergic rhinitis,"sneezing, itchy watery eyes, runny nose for months",Allergist/Immunologist
+Food allergy,"hives, throat tightness after eating peanuts for 2 days",Allergist/Immunologist
+Anaphylaxis,"wheezing, cough after pet dander exposure acute episode",Allergist/Immunologist
+Asthma (allergic),"wheezing, cough after allergen exposure for a few weeks",Allergist/Immunologist
+Eczema,"itchy red rash, periodic flares for months",Allergist/Immunologist
+Contact dermatitis,"itchy rash after chemical exposure for 2 days",Allergist/Immunologist
+Drug allergy,"rash, swelling after medication for a few weeks",Allergist/Immunologist
+Insect sting allergy,"swelling, redness, itching after sting acute episode",Allergist/Immunologist
+Latex allergy,"rash, itching after latex exposure for 2 days",Allergist/Immunologist
+Immunodeficiency,"frequent infections, fatigue for months",Allergist/Immunologist
+Cataract,"gradual painless loss of peripheral vision for a few weeks",Ophthalmologist
+Glaucoma,"sudden floaters, flashing lights, shadow over vision for months",Ophthalmologist
+Conjunctivitis,"red eye, discharge, gritty sensation for 2 days",Ophthalmologist
+Retinal detachment,"sudden vision loss, floaters, curtain-like shadow for a few weeks",Ophthalmologist
+Macular degeneration,"blurred central vision, difficulty reading for months",Ophthalmologist
+Keratitis,"eye pain, redness, light sensitivity acute episode",Ophthalmologist
+Uveitis,"eye pain, redness, blurred vision for a few weeks",Ophthalmologist
+Dry eye syndrome,"gritty sensation, burning, tearing for months",Ophthalmologist
+Blepharitis,"eyelid swelling, crusting, irritation for 2 days",Ophthalmologist
+Corneal abrasion,"eye pain, tearing, foreign body sensation acute episode",Ophthalmologist
+Hypertension,"high blood pressure, headaches for months",General physician
+Diabetes,"frequent urination, thirst for a few weeks",General physician
+Respiratory infection,"fever, cough for 2 days",General physician
+Sinusitis,"nasal congestion, facial pain for months",General physician
+Back pain,"chronic back ache, stiffness for a few weeks",General physician
+Abdominal pain,"nausea, cramping for 2 days",General physician
+Headache,"migraine, sensitivity to light for months",General physician
+Fever,"high temperature, chills for a few weeks",General physician
+Chronic fatigue,"persistent tiredness for months",General physician
+Digestive issues,"bloating, indigestion for a few weeks",General physician
+Common cold,"sneezing, runny nose for 2 days",General physician
+Flu,"body aches, fever for months",General physician
+Bronchitis,"cough with mucus for a few weeks",General physician
+Allergies,"itchy eyes, sneezing for 2 days",General physician
+Arthritis,"joint swelling, pain for months",General physician
+Appendectomy,"severe right lower abdominal pain, fever acute episode",General Surgeon
+Cholecystectomy,"severe right upper quadrant pain, nausea for a few weeks",Gastroenterologist
+Hernia repair,"bulge in abdomen, pain when lifting for months",General Surgeon
+Colectomy,"chronic abdominal pain, bleeding for a few weeks",Gastroenterologist
+Fistula repair,"persistent anal pain, discharge for 2 days",General Surgeon
+Thyroidectomy,"neck mass, difficulty swallowing for months",General Surgeon
+Mastectomy,"painless breast lump, nipple discharge for a few weeks",General Surgeon
+Laparotomy,"abdominal pain, suspected mass acute episode",General Surgeon
+Hemorrhoidectomy,"rectal bleeding, severe pain for 2 days",General Surgeon
+Wound debridement,"non-healing wound, infection for a few weeks",General Surgeon
+Meningitis,"fever, stiff neck, headache in a child acute episode",Pediatrics
+Whooping cough,"severe coughing fits, vomiting in a child for 2 days",Pediatrics
+Kawasaki disease,"fever, rash, swollen hands in a child for a few weeks",Pediatrics
+Asthma in children,"wheezing, shortness of breath in a child for months",Pediatrics
+Diaper rash,"red irritated skin, discomfort in an infant for 2 days",Pediatrics
+Juvenile arthritis,"joint pain, swelling in a child for a few weeks",Pediatrics
+Viral exanthem,"rash, fever in a child acute episode",Pediatrics
+Failure to thrive,"poor weight gain, fatigue in an infant for months",Pediatrics
+Seizures in children,"recurrent seizures, loss of consciousness for a few weeks",Pediatrics
+Congenital anomaly,"structural defect noted at birth for months",Pediatrics
+Attention-deficit/hyperactivity disorder,"inattention, hyperactivity, impulsivity for months",Psychiatry
+Eating disorder,"weight loss, food restriction for a few weeks",Psychiatry
+Autism spectrum disorder,"social withdrawal, repetitive behaviors for months",Psychiatry
+Mood disorder,"irritability, low mood in a teenager for a few weeks",Psychiatry
+Psychosis,"hallucinations, delusions for 2 days",Psychiatry
+Adjustment disorder,"stress-related symptoms, emotional distress for a few weeks",Psychiatry
+Sleep disorder,"difficulty sleeping, daytime fatigue for months",Psychiatry
+Substance use disorder,"cravings, withdrawal symptoms for a few weeks",Psychiatry
+Personality disorder,"unstable relationships, impulsivity for months",Psychiatry
+Phobia,"intense fear of specific situations for a few weeks",Psychiatry
+Dental abscess,"swelling, severe tooth pain, fever for 2 days",Dentistry
+Oral cancer,"non-healing mouth ulcer, pain for months",Dentistry
+Malocclusion,"difficulty chewing, misaligned teeth for a few weeks",Dentistry
+Bruxism,"jaw pain, tooth wear from grinding for months",Dentistry
+Dry socket,"pain after tooth extraction, bad breath for 2 days",Dentistry
+Periapical abscess,"deep toothache, swelling for a few weeks",Endodontics
+Caries in children,"tooth pain, sensitivity in a child for 2 days",Dentistry
+Oral herpes,"cold sores, tingling, pain for a few weeks",Dentistry
+Gum recession,"exposed tooth roots, sensitivity for months",Dentistry
+Dental erosion,"tooth sensitivity, enamel loss for a few weeks",Dentistry
+Heart attack,"sudden severe chest pain, nausea, sweating acute episode",Cardiology
+Aortic aneurysm,"pulsatile abdominal mass, back pain for a few weeks",Cardiology
+Cardiac tamponade,"chest pain, shortness of breath, hypotension for 2 days",Cardiology
+Endocarditis,"fever, heart murmur, fatigue for months",Cardiology
+Mitral valve prolapse,"chest pain, palpitations for a few weeks",Cardiology
+Congestive heart failure,"swelling, shortness of breath, fatigue for months",Cardiology
+Hypertensive crisis,"severe headache, high blood pressure acute episode",Cardiology
+Pericardial effusion,"chest pain, shortness of breath for a few weeks",Cardiology
+Ventricular tachycardia,"rapid heartbeat, dizziness for 2 days",Cardiology
+Bradycardia,"slow heart rate, fatigue, fainting for months",Cardiology
+Melanoma,"suspicious mole, asymmetry, color change for a few weeks",Dermatology
+Basal cell carcinoma,"non-healing sore, bleeding for months",Dermatology
+Squamous cell carcinoma,"scaly patch, ulceration for a few weeks",Dermatology
+Lichen planus,"itchy purple rash, white patches for months",Dermatology
+Pityriasis rosea,"herald patch, widespread rash for a few weeks",Dermatology
+Impetigo,"red sores, crusting, itching for 2 days",Dermatology
+Tinea versicolor,"discolored skin patches, itching for months",Dermatology
+Molluscum contagiosum,"small pearly bumps, itching for a few weeks",Dermatology
+Actinic keratosis,"rough scaly spots, sun-exposed areas for months",Dermatology
+Hidradenitis suppurativa,"painful lumps, abscesses for a few weeks",Dermatology
+Infertility,"difficulty conceiving, irregular cycles for months",Obstetrics/Gynecology
+Ectopic pregnancy,"severe pelvic pain, vaginal bleeding acute episode",Obstetrics/Gynecology
+Placental abruption,"abdominal pain, bleeding in pregnancy for 2 days",Obstetrics/Gynecology
+Gestational diabetes,"high blood sugar, fatigue in pregnancy for a few weeks",Obstetrics/Gynecology
+Preeclampsia,"high blood pressure, swelling in pregnancy for months",Obstetrics/Gynecology
+Fibrocystic breast changes,"painful breast lumps, tenderness for a few weeks",Obstetrics/Gynecology
+Vulvodynia,"chronic vulvar pain, burning for months",Obstetrics/Gynecology
+Cervical cancer,"abnormal vaginal bleeding, pelvic pain for a few weeks",Obstetrics/Gynecology
+Ovarian cancer,"abdominal bloating, pelvic pain for months",Obstetrics/Gynecology
+Endometrial hyperplasia,"heavy irregular periods, pelvic pain for a few weeks",Obstetrics/Gynecology
+Stroke rehab,"weakness after stroke, difficulty moving for a few weeks",Neurology
+Trigeminal neuralgia,"severe facial pain, electric-shock sensation for 2 days",Neurology
+Guillain-Barré syndrome,"progressive muscle weakness, tingling for a few weeks",Neurology
+Huntington’s disease,"involuntary movements, cognitive decline for months",Neurology
+Brain tumor,"headache, seizures, neurological deficits for a few weeks",Neurology
+Meningioma,"headache, vision changes, seizures for months",Neurology
+Cerebral palsy,"motor impairment, spasticity for a few weeks",Neurology
+Transient ischemic attack,"sudden weakness, speech difficulty for 2 days",Neurology
+Dementia,"memory loss, confusion, difficulty with tasks for months",Neurology
+Amyotrophic lateral sclerosis,"muscle weakness, difficulty speaking for a few weeks",Neurology
+ACL injury,"knee instability, pain after injury for a few weeks",Orthopedics
+Dislocation,"shoulder pain, deformity after injury for 2 days",Orthopedics
+Spinal stenosis,"back pain, leg numbness for months",Orthopedics
+Herniated disc,"back pain, sciatica, numbness for a few weeks",Orthopedics
+Plantar fasciitis,"heel pain, worse in morning for months",Orthopedics
+Tennis elbow,"elbow pain, weakness with gripping for a few weeks",Orthopedics
+Frozen shoulder,"shoulder stiffness, pain for months",Orthopedics
+Osteoporosis,"bone pain, fractures with minimal trauma for a few weeks",Orthopedics
+Kyphosis,"back pain, spinal curvature for months",Orthopedics
+Ligament tear,"knee swelling, instability after injury for 2 days",Orthopedics
+Vertigo,"severe dizziness, nausea, balance issues for a few weeks",ENT Specialist
+Chronic sinusitis,"persistent nasal congestion, facial pain for months",ENT Specialist
+Vocal cord nodules,"hoarseness, vocal strain for a few weeks",ENT Specialist
+Allergic rhinitis,"runny nose, sneezing, itchy eyes for months",ENT Specialist
+Deviated septum,"nasal obstruction, frequent sinus infections for a few weeks",ENT Specialist
+Tinnitus,"ringing in ears, hearing difficulty for months",ENT Specialist
+Otitis externa,"ear pain, itching, discharge for 2 days",ENT Specialist
+Mastoiditis,"ear pain, swelling behind ear for a few weeks",ENT Specialist
+Nasal fracture,"nasal pain, deformity after injury for 2 days",ENT Specialist
+Throat cancer,"sore throat, difficulty swallowing for months",ENT Specialist
+Graves’ disease,"weight loss, palpitations, heat intolerance for a few weeks",Endocrinologist
+Hashimoto’s thyroiditis,"fatigue, weight gain, cold intolerance for months",Endocrinologist
+Diabetes insipidus,"frequent urination, extreme thirst for a few weeks",Endocrinologist
+Acromegaly,"enlarged hands, feet, facial changes for months",Endocrinologist
+Hypoparathyroidism,"muscle cramps, tingling, low calcium for a few weeks",Endocrinologist
+Thyroid cancer,"neck mass, hoarseness for months",Endocrinologist
+Adrenal tumor,"fatigue, high blood pressure, weight gain for a few weeks",Endocrinologist
+Pheochromocytoma,"episodic high blood pressure, sweating for 2 days",Endocrinologist
+Hyperaldosteronism,"high blood pressure, muscle weakness for months",Endocrinologist
+Men1 syndrome,"hormonal imbalances, tumors in glands for a few weeks",Endocrinologist
+Esophagitis,"heartburn, difficulty swallowing for a few weeks",Gastroenterologist
+Barrett’s esophagus,"chronic heartburn, chest pain for months",Gastroenterologist
+Gastroparesis,"nausea, vomiting, early satiety for a few weeks",Gastroenterologist
+Liver cirrhosis,"jaundice, swelling, fatigue for months",Gastroenterologist
+Cholangitis,"fever, jaundice, abdominal pain for 2 days",Gastroenterologist
+Colorectal cancer,"change in bowel habits, blood in stool for a few weeks",Gastroenterologist
+Anal cancer,"rectal pain, bleeding for months",Gastroenterologist
+Esophageal varices,"upper GI bleeding, fatigue for a few weeks",Gastroenterologist
+Gastric ulcer,"epigastric pain, bleeding for 2 days",Gastroenterologist
+Biliary colic,"intermittent abdominal pain, nausea for a few weeks",Gastroenterologist
+Pulmonary fibrosis,"progressive shortness of breath, dry cough for months",Pulmonologist
+Emphysema,"shortness of breath, chronic cough for a few weeks",Pulmonologist
+Bronchiectasis,"chronic cough, mucus production for months",Pulmonologist
+Cystic fibrosis,"recurrent lung infections, poor growth for a few weeks",Pulmonologist
+Lung abscess,"fever, cough, chest pain for 2 days",Pulmonologist
+Pneumothorax,"sudden chest pain, shortness of breath for a few weeks",Pulmonologist
+Pulmonary hypertension,"fatigue, shortness of breath for months",Pulmonologist
+Sleep apnea,"daytime sleepiness, snoring for a few weeks",Pulmonologist
+Chronic bronchitis,"persistent cough, mucus production for months",Pulmonologist
+Lung nodule,"cough, chest pain for a few weeks",Pulmonologist
+Bladder infection,"burning urination, frequent urges for 2 days",Urologist
+Ureteral stone,"severe flank pain, nausea for a few weeks",Urologist
+Prostate cancer,"blood in urine, difficulty urinating for months",Urologist
+Testicular cancer,"painless testicular lump, swelling for a few weeks",Urologist
+Kidney cancer,"blood in urine, flank pain for months",Urologist
+Urethral stricture,"difficulty urinating, weak stream for a few weeks",Urologist
+Vesicoureteral reflux,"recurrent urinary infections for months",Urologist
+Hydrocele,"scrotal swelling, discomfort for a few weeks",Urologist
+Varicocele,"scrotal pain, swelling for months",Urologist
+Epididymitis,"scrotal pain, swelling, fever for 2 days",Urologist
+Chronic renal failure,"swelling, fatigue, high blood pressure for months",Nephrologist
+Renal tubular acidosis,"fatigue, muscle weakness for a few weeks",Nephrologist
+Nephritis,"swelling, blood in urine for months",Nephrologist
+Diabetic nephropathy,"proteinuria, swelling for a few weeks",Nephrologist
+Renal cyst,"flank pain, palpable mass for months",Nephrologist
+Hypertensive nephropathy,"high blood pressure, reduced kidney function for a few weeks",Nephrologist
+Minimal change disease,"swelling, proteinuria for months",Nephrologist
+Membranous nephropathy,"swelling, fatigue for a few weeks",Nephrologist
+Focal segmental glomerulosclerosis,"proteinuria, swelling for months",Nephrologist
+IgA nephropathy,"blood in urine, swelling for a few weeks",Nephrologist
+Hodgkin’s lymphoma,"swollen lymph nodes, night sweats for months",Hematologist
+Non-Hodgkin’s lymphoma,"fatigue, weight loss, swollen nodes for a few weeks",Hematologist
+Aplastic anemia,"fatigue, frequent infections for months",Hematologist
+Iron deficiency anemia,"pallor, fatigue, shortness of breath for a few weeks",Hematologist
+Hemolytic anemia,"fatigue, jaundice, dark urine for months",Hematologist
+Von Willebrand disease,"easy bruising, heavy bleeding for a few weeks",Hematologist
+Leukocytosis,"fever, fatigue, infections for months",Hematologist
+Thrombocytopenia,"easy bruising, petechiae for a few weeks",Hematologist
+Myelofibrosis,"fatigue, enlarged spleen for months",Hematologist
+Essential thrombocythemia,"headaches, clotting issues for a few weeks",Hematologist
+Rheumatoid lung,"joint pain, shortness of breath for a few weeks",Rheumatologist
+Still’s disease,"fever, rash, joint pain for months",Rheumatologist
+Felty’s syndrome,"spleen enlargement, joint pain for a few weeks",Rheumatologist
+Antiphospholipid syndrome,"clotting, recurrent miscarriages for months",Rheumatologist
+Sarcoidosis,"joint pain, skin lesions for a few weeks",Rheumatologist
+Reactive arthritis,"joint swelling, eye inflammation for months",Rheumatologist
+Palindromic rheumatism,"intermittent joint pain for a few weeks",Rheumatologist
+Ehlers-Danlos syndrome,"joint hypermobility, skin fragility for months",Rheumatologist
+Marfan syndrome,"joint pain, tall stature for a few weeks",Rheumatologist
+Osteogenesis imperfecta,"frequent fractures, bone pain for months",Rheumatologist
+Angioedema,"swelling of face, lips after allergen exposure for 2 days",Allergist/Immunologist
+Chronic urticaria,"persistent hives, itching for months",Allergist/Immunologist
+Mastocytosis,"skin lesions, flushing, abdominal pain for a few weeks",Allergist/Immunologist
+Primary immunodeficiency,"recurrent infections, fatigue for months",Allergist/Immunologist
+Allergic conjunctivitis,"red itchy eyes, tearing for a few weeks",Allergist/Immunologist
+Eosinophilic esophagitis,"difficulty swallowing, food impaction for months",Allergist/Immunologist
+Hereditary angioedema,"recurrent swelling, abdominal pain for a few weeks",Allergist/Immunologist
+Allergic bronchopulmonary aspergillosis,"wheezing, cough for months",Allergist/Immunologist
+Atopic dermatitis,"chronic itchy rash, flares for a few weeks",Allergist/Immunologist
+Anaphylactic shock,"sudden breathing difficulty, hypotension for 2 days",Allergist/Immunologist
+Diabetic retinopathy,"blurred vision, floaters for months",Ophthalmologist
+Retinal vein occlusion,"sudden vision loss, swelling for a few weeks",Ophthalmologist
+Optic neuritis,"sudden vision loss, eye pain for 2 days",Ophthalmologist
+Strabismus,"misaligned eyes, double vision for months",Ophthalmologist
+Amblyopia,"reduced vision in one eye for a few weeks",Ophthalmologist
+Presbyopia,"difficulty reading, eye strain for months",Ophthalmologist
+Pterygium,"growth on eye, irritation for a few weeks",Ophthalmologist
+Retinitis pigmentosa,"night blindness, peripheral vision loss for months",Ophthalmologist
+Ocular hypertension,"high eye pressure, no vision loss for a few weeks",Ophthalmologist
+Chalazion,"eyelid swelling, painless lump for 2 days",Ophthalmologist
+Hypertension,"high blood pressure, headaches for months",General physician
+Diabetes,"frequent urination, thirst for a few weeks",General physician
+Respiratory infection,"fever, cough for 2 days",General physician
+Sinusitis,"nasal congestion, facial pain for months",General physician
+Back pain,"chronic back ache, stiffness for a few weeks",General physician
+Abdominal pain,"nausea, cramping for 2 days",General physician
+Headache,"migraine, sensitivity to light for months",General physician
+Fever,"high temperature, chills for a few weeks",General physician
+Chronic fatigue,"persistent tiredness for months",General physician
+Digestive issues,"bloating, indigestion for a few weeks",General physician
+Common cold,"sneezing, runny nose for 2 days",General physician
+Flu,"body aches, fever for months",General physician
+Bronchitis,"cough with mucus for a few weeks",General physician
+Allergies,"itchy eyes, sneezing for 2 days",General physician
+Arthritis,"joint swelling, pain for months",General physician
+Laparoscopic surgery,"abdominal pain, suspected mass for a few weeks",General Surgeon
+Thyroid surgery,"neck swelling, difficulty swallowing for months",General Surgeon
+Breast surgery,"painless breast lump for a few weeks",General Surgeon
+Vascular surgery,"leg swelling, pain for months",General Surgeon
+Bowel resection,"chronic abdominal pain, bleeding for a few weeks",General Surgeon
+Appendicitis,"acute abdominal pain, fever for 2 days",General Surgeon
+Gallbladder surgery,"upper abdominal pain, nausea for months",Gastroenterologist
+Hernia repair,"inguinal bulge, pain for a few weeks",General Surgeon
+Colostomy,"rectal bleeding, obstruction for months",General Surgeon
+Wound repair,"non-healing wound, infection for a few weeks",General Surgeon
+Neonatal jaundice,"yellowing of skin, eyes in newborn for 2 days",Pediatrics
+Pyloric stenosis,"vomiting, poor feeding in infant for a few weeks",Pediatrics
+Congenital heart defect,"cyanosis, poor feeding in infant for months",Pediatrics
+Cystic fibrosis,"recurrent lung infections, poor growth for a few weeks",Pediatrics
+Developmental delay,"delayed milestones, poor coordination for months",Pediatrics
+Scoliosis in children,"uneven shoulders, back pain for a few weeks",Pediatrics
+Epilepsy in children,"recurrent seizures, staring spells for months",Pediatrics
+Autism,"delayed speech, social withdrawal for a few weeks",Pediatrics
+Cerebral palsy in children,"motor delay, spasticity for months",Pediatrics
+Allergic reaction,"rash, swelling in a child for 2 days",Pediatrics
+Borderline personality disorder,"unstable mood, impulsivity for months",Psychiatry
+Postpartum depression,"low mood, fatigue after childbirth for a few weeks",Psychiatry
+Seasonal affective disorder,"low mood, lethargy in winter for months",Psychiatry
+Dissociative disorder,"identity confusion, memory gaps for a few weeks",Psychiatry
+Delirium,"acute confusion, agitation for 2 days",Psychiatry
+Anorexia nervosa,"severe weight loss, food avoidance for months",Psychiatry
+Bulimia nervosa,"binge eating, purging for a few weeks",Psychiatry
+Binge eating disorder,"uncontrolled eating, guilt for months",Psychiatry
+Agoraphobia,"fear of open spaces, avoidance for a few weeks",Psychiatry
+Hypochondriasis,"excessive health anxiety for months",Psychiatry
+Dental implant failure,"pain, swelling around implant for a few weeks",Dentistry
+Oral lichen planus,"white patches, mouth pain for months",Dentistry
+Cleft palate,"difficulty feeding, speech issues for a few weeks",Dentistry
+Tooth sensitivity,"sharp pain with cold drinks for 2 days",Dentistry
+Pericoronitis,"pain around wisdom tooth, swelling for months",Dentistry
+Cracked tooth,"pain when chewing, sensitivity for a few weeks",Dentistry
+Dental abscess,"swelling, fever, tooth pain for 2 days",Dentistry
+Oral candidiasis,"white patches, soreness for months",Dentistry
+Tongue ulcer,"painful sore, difficulty eating for a few weeks",Dentistry
+Gum abscess,"swelling, pain in gums for 2 days",Dentistry
+Aortic dissection,"severe chest pain, tearing sensation for 2 days",Cardiology
+Pulmonary edema,"severe shortness of breath, frothy sputum for a few weeks",Cardiology
+Heart block,"fatigue, slow heart rate for months",Cardiology
+Cardiac arrest,"sudden collapse, loss of consciousness for 2 days",Cardiology
+Myocarditis,"fever, chest pain, fatigue for a few weeks",Cardiology
+Aortic stenosis,"chest pain, syncope for months",Cardiology
+Mitral regurgitation,"shortness of breath, fatigue for a few weeks",Cardiology
+Vascular disease,"leg pain, claudication for months",Cardiology
+Cardiogenic shock,"hypotension, cold sweats for 2 days",Cardiology
+Heart valve disease,"shortness of breath, swelling for a few weeks",Cardiology
+Shingles,"painful rash, blisters for a few weeks",Dermatology
+Cellulitis,"red, swollen, painful skin for 2 days",Dermatology
+Erythroderma,"widespread red skin, scaling for months",Dermatology
+Pemphigus,"blistering skin, painful sores for a few weeks",Dermatology
+Dermatitis herpetiformis,"itchy blisters, rash for months",Dermatology
+Scabies,"itchy rash, worse at night for a few weeks",Dermatology
+Tinea corporis,"ring-shaped rash, itching for 2 days",Dermatology
+Pyoderma,"pus-filled sores, pain for a few weeks",Dermatology
+Erysipelas,"red, swollen, painful skin for months",Dermatology
+Lichen simplex,"chronic itchy thickened skin for a few weeks",Dermatology
+Miscarriage,"vaginal bleeding, cramping for 2 days",Obstetrics/Gynecology
+Postpartum hemorrhage,"heavy bleeding after delivery for a few weeks",Obstetrics/Gynecology
+Ovarian torsion,"severe pelvic pain, nausea for 2 days",Obstetrics/Gynecology
+Uterine rupture,"severe abdominal pain, bleeding for a few weeks",Obstetrics/Gynecology
+Endometrial cancer,"abnormal vaginal bleeding for months",Obstetrics/Gynecology
+Vaginal prolapse,"pelvic pressure, bulging sensation for a few weeks",Obstetrics/Gynecology
+Cervical polyp,"bleeding after intercourse, spotting for months",Obstetrics/Gynecology
+Menorrhagia,"heavy menstrual bleeding, fatigue for a few weeks",Obstetrics/Gynecology
+Adenomyosis,"painful periods, heavy bleeding for months",Obstetrics/Gynecology
+Chlamydia,"vaginal discharge, pelvic pain for a few weeks",Obstetrics/Gynecology
+Hydrocephalus,"headache, nausea, vision changes for months",Neurology
+Encephalitis,"fever, confusion, seizures for a few weeks",Neurology
+Peripheral neuropathy,"numbness, tingling, burning pain for months",Neurology
+Restless leg syndrome,"urge to move legs, discomfort for a few weeks",Neurology
+Tremor,"involuntary shaking, worse with movement for months",Neurology
+Spinal cord injury,"loss of movement, sensation for a few weeks",Neurology
+Brain hemorrhage,"sudden headache, loss of consciousness for 2 days",Neurology
+Cerebral aneurysm,"severe headache, neck stiffness for months",Neurology
+Myopathy,"muscle weakness, pain for a few weeks",Neurology
+Neuromuscular disorder,"muscle cramps, weakness for months",Neurology
+Hip fracture,"severe hip pain, inability to walk for 2 days",Orthopedics
+Ankle sprain,"swelling, pain, bruising for a few weeks",Orthopedics
+Spinal fracture,"back pain, deformity after trauma for months",Orthopedics
+Shoulder impingement,"pain with overhead movement for a few weeks",Orthopedics
+Knee osteoarthritis,"joint stiffness, pain for months",Orthopedics
+Ganglion cyst,"wrist lump, discomfort for a few weeks",Orthopedics
+Bone tumor,"bone pain, swelling for months",Orthopedics
+Stress fracture,"localized pain, worse with activity for a few weeks",Orthopedics
+Tendon rupture,"acute pain, loss of function for 2 days",Orthopedics
+Joint infection,"red, swollen, painful joint for a few weeks",Orthopedics
+Cholesteatoma,"ear discharge, hearing loss for months",ENT Specialist
+Acoustic neuroma,"hearing loss, tinnitus, balance issues for a few weeks",ENT Specialist
+Salivary gland infection,"swelling, pain near jaw for 2 days",ENT Specialist
+Thyroid nodule,"neck mass, hoarseness for months",ENT Specialist
+Laryngeal cancer,"hoarseness, throat pain for a few weeks",ENT Specialist
+Nasal tumor,"nasal obstruction, bleeding for months",ENT Specialist
+Ear trauma,"ear pain, bleeding after injury for 2 days",ENT Specialist
+Peritonsillar abscess,"sore throat, difficulty swallowing for a few weeks",ENT Specialist
+Vocal cord paralysis,"hoarseness, weak voice for months",ENT Specialist
+Sinus tumor,"facial pain, nasal obstruction for a few weeks",ENT Specialist
+Goiter,"neck swelling, difficulty swallowing for months",Endocrinologist
+Hypopituitarism,"fatigue, hormonal deficiency for a few weeks",Endocrinologist
+Thyroid storm,"fever, rapid heart rate, agitation for 2 days",Endocrinologist
+Adrenal crisis,"hypotension, fatigue, dehydration for a few weeks",Endocrinologist
+Parathyroid adenoma,"bone pain, high calcium for months",Endocrinologist
+Conn’s syndrome,"high blood pressure, low potassium for a few weeks",Endocrinologist
+Carcinoid syndrome,"flushing, diarrhea, wheezing for months",Endocrinologist
+Multiple endocrine neoplasia,"tumors in glands, hormonal issues for a few weeks",Endocrinologist
+Hypoglycemic coma,"confusion, seizures, low blood sugar for 2 days",Endocrinologist
+Diabetic ketoacidosis,"nausea, vomiting, high blood sugar for a few weeks",Endocrinologist
+Peptic ulcer,"epigastric pain, nausea for months",Gastroenterologist
+Esophageal cancer,"difficulty swallowing, weight loss for a few weeks",Gastroenterologist
+Pancreatic cancer,"jaundice, abdominal pain for months",Gastroenterologist
+Cholelithiasis,"gallstone pain, nausea for a few weeks",Gastroenterologist
+Hepatic abscess,"fever, right upper quadrant pain for 2 days",Gastroenterologist
+Chronic hepatitis,"fatigue, jaundice for months",Gastroenterologist
+Gastrointestinal bleeding,"blood in stool, fatigue for a few weeks",Gastroenterologist
+Achalasia,"difficulty swallowing, regurgitation for months",Gastroenterologist
+Biliary obstruction,"jaundice, dark urine for a few weeks",Gastroenterologist
+Enterocolitis,"diarrhea, fever, abdominal pain for 2 days",Gastroenterologist
+Acute respiratory distress syndrome,"severe shortness of breath, hypoxia for 2 days",Pulmonologist
+Pulmonary embolism,"sudden chest pain, shortness of breath for a few weeks",Pulmonologist
+Lung infection,"fever, cough, chest pain for months",Pulmonologist
+Pleural infection,"chest pain, fever, shortness of breath for a few weeks",Pulmonologist
+Pneumoconiosis,"chronic cough, shortness of breath for months",Pulmonologist
+Lung metastasis,"cough, weight loss for a few weeks",Pulmonologist
+Bronchial asthma,"wheezing, shortness of breath for months",Pulmonologist
+Chronic cough,"persistent cough, throat irritation for a few weeks",Pulmonologist
+Pulmonary edema,"shortness of breath, frothy sputum for 2 days",Pulmonologist
+Lung tumor,"chest pain, cough for months",Pulmonologist
+Bladder tumor,"blood in urine, pelvic pain for a few weeks",Urologist
+Ureteral obstruction,"flank pain, reduced urine output for months",Urologist
+Prostate hypertrophy,"difficulty urinating, frequent urination for a few weeks",Urologist
+Testicular injury,"pain, swelling after trauma for 2 days",Urologist
+Urethral injury,"blood in urine, pain with urination for a few weeks",Urologist
+Bladder stones,"painful urination, blood in urine for months",Urologist
+Renal colic,"severe flank pain, nausea for a few weeks",Urologist
+Urologic cancer,"pelvic pain, blood in urine for months",Urologist
+Epididymal cyst,"scrotal lump, discomfort for a few weeks",Urologist
+Ureteral reflux,"recurrent infections, flank pain for months",Urologist
+Lupus nephritis,"swelling, proteinuria for a few weeks",Nephrologist
+Renal vein thrombosis,"flank pain, blood in urine for months",Nephrologist
+Acute tubular necrosis,"reduced urine output, fatigue for 2 days",Nephrologist
+Interstitial nephritis,"fever, rash, reduced kidney function for a few weeks",Nephrologist
+Renal infarction,"sudden flank pain, blood in urine for months",Nephrologist
+Amyloidosis,"swelling, proteinuria for a few weeks",Nephrologist
+Nephrocalcinosis,"kidney stones, flank pain for months",Nephrologist
+Renal abscess,"fever, flank pain for a few weeks",Nephrologist
+Glomerular disease,"blood in urine, swelling for months",Nephrologist
+Nephrotic edema,"severe swelling, low protein for a few weeks",Nephrologist
+Chronic leukemia,"fatigue, night sweats for months",Hematologist
+Acute leukemia,"fever, bruising, fatigue for a few weeks",Hematologist
+Bone marrow failure,"fatigue, infections for months",Hematologist
+Hemochromatosis,"fatigue, joint pain for a few weeks",Hematologist
+Lymphadenopathy,"swollen nodes, fever for months",Hematologist
+Sepsis,"blood clotting issues, fever for a few weeks",Hematologist
+Thrombotic disorder,"clotting, swelling for months",Hematologist
+Hemorrhagic disorder,"excessive bleeding, bruising for a few weeks",Hematologist
+Blood transfusion reaction,"fever, chills after transfusion for 2 days",Hematologist
+Myeloproliferative disorder,"fatigue, enlarged spleen for months",Hematologist
+Rheumatoid lung,"joint pain, shortness of breath for a few weeks",Rheumatologist
+Still’s disease,"fever, rash, joint pain for months",Rheumatologist
+Felty’s syndrome,"spleen enlargement, joint pain for a few weeks",Rheumatologist
+Antiphospholipid syndrome,"clotting, recurrent miscarriages for months",Rheumatologist
+Sarcoidosis,"joint pain, skin lesions for a few weeks",Rheumatologist
+Reactive arthritis,"joint swelling, eye inflammation for months",Rheumatologist
+Palindromic rheumatism,"intermittent joint pain for a few weeks",Rheumatologist
+Ehlers-Danlos syndrome,"joint hypermobility, skin fragility for months",Rheumatologist
+Marfan syndrome,"joint pain, tall stature for a few weeks",Rheumatologist
+Osteogenesis imperfecta,"frequent fractures, bone pain for months",Rheumatologist
+Angioedema,"swelling of face, lips after allergen exposure for 2 days",Allergist/Immunologist
+Chronic urticaria,"persistent hives, itching for months",Allergist/Immunologist
+Mastocytosis,"skin lesions, flushing, abdominal pain for a few weeks",Allergist/Immunologist
+Primary immunodeficiency,"recurrent infections, fatigue for months",Allergist/Immunologist
+Allergic conjunctivitis,"red itchy eyes, tearing for a few weeks",Allergist/Immunologist
+Eosinophilic esophagitis,"difficulty swallowing, food impaction for months",Allergist/Immunologist
+Hereditary angioedema,"recurrent swelling, abdominal pain for a few weeks",Allergist/Immunologist
+Allergic bronchopulmonary aspergillosis,"wheezing, cough for months",Allergist/Immunologist
+Atopic dermatitis,"chronic itchy rash, flares for a few weeks",Allergist/Immunologist
+Anaphylactic shock,"sudden breathing difficulty, hypotension for 2 days",Allergist/Immunologist
+Ocular melanoma,"vision changes, eye pain for months",Ophthalmologist
+Retinal artery occlusion,"sudden vision loss, no pain for a few weeks",Ophthalmologist
+Eye trauma,"eye pain, redness after injury for 2 days",Ophthalmologist
+Orbital cellulitis,"eye swelling, pain for a few weeks",Ophthalmologist
+Glaucoma crisis,"severe eye pain, vision loss for 2 days",Ophthalmologist
+Iritis,"eye pain, light sensitivity for months",Ophthalmologist
+Scleritis,"severe eye pain, redness for a few weeks",Ophthalmologist
+Optic atrophy,"progressive vision loss for months",Ophthalmologist
+Conjunctival tumor,"eye growth, irritation for a few weeks",Ophthalmologist
+Eyelid tumor,"painless lump, eyelid changes for months",Ophthalmologist

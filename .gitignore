@@ -1,0 +1,44 @@
+# 1️⃣ Python virtual environment
+nlp-ml/venv/
+nlp-ml/__pycache__/
+nlp-ml/*.pyc
+nlp-ml/*.pyo
+nlp-ml/*.pyd
+nlp-ml/.Python
+
+# 2️⃣ Jupyter Notebook checkpoints
+nlp-ml/.ipynb_checkpoints/
+
+# 3️⃣ Data, outputs, and model files
+nlp-ml/data/
+nlp-ml/outputs/
+nlp-ml/logs/
+nlp-ml/models/
+nlp-ml/*.h5
+nlp-ml/*.ckpt
+nlp-ml/*.joblib
+nlp-ml/*.pt
+
+# 4️⃣ CSV / TSV raw data (keep CSV if needed)
+# If you want to track CSVs, comment the next line:
+# nlp-ml/*.csv
+nlp-ml/*.tsv
+nlp-ml/*.json
+
+# 5️⃣ IDE / editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.iml
+*.ipr
+
+# 6️⃣ OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+
+# 7️⃣ Cache
+__pycache__/
